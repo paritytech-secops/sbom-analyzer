@@ -17,3 +17,11 @@ A Python tool for analyzing Software Bill of Materials (SBOM) files and enrichin
   - PyPI (Python) packages
 
 ## Installation
+
+Use Python 3.10 or higher and virtualenv to create a virtual environment, then install the requirements:
+
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
